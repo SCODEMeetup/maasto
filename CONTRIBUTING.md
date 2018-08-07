@@ -4,7 +4,7 @@ We :heart: contributions from our community! Thank you for taking the time to re
 
 | :bulb: | :question: | :bug: |
 | ------- | -------- | -------- |
-| **Have an idea for improvement?** Open an issue first and let's talk about it. | **Have a question?** Check out the [README](readme.md) and then open an issue. | **Did you find a bug?** Open an issue. |
+| **Have an idea for improvement?** Open an issue first and let's talk about it. | **Have a question?** Check out the [README](README.md) and then open an issue. | **Did you find a bug?** Open an issue. |
 
 ### How you can help
 
