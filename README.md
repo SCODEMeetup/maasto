@@ -1,4 +1,5 @@
-# Mid America Association of State Transportation Officials
+![Image of MAASTO Logo](http://www.maasto.net/images/logo_color.jpg)
+
 ![Image of MAASTO Region](http://www.maasto.net/images/MAASTOregion.jpg)
 
 ## The challenge:
